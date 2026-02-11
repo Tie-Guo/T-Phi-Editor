@@ -1,0 +1,11 @@
+{
+	"newest_version": 50,
+	"newest_version_name": "v0.10",
+	"minimum_limit_version": 40,
+	"unavailable_version": [
+		{
+			"ver": 40,
+			"reason": "这个版本没有检测机制"
+		}
+	]
+}
