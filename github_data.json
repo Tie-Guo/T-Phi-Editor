@@ -1,7 +1,8 @@
 {
-	"newest_version": 58,
-	"newest_version_name": "v0.10",
+	"newest_version": 57,
+	"newest_version_name": "v0.10.4.1",
 	"minimum_limit_version": 40,
+	"allow_encrypted_code_old_convert_to_new": true,
 	"unavailable_version": [
 		{
 			"ver": 40,
